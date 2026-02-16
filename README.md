@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>فروشگاه مکمل ورزشی</title>
+<title>فروشگاه مکمل فیت تهران</title>
 <style>
 body {
     font-family: sans-serif;
-    margin: 0;
+    margin: 0;<img src="whey.jpg"><img src="whey.jpg"><img src="whey.jpg"><img src="whey.jpg">
     background: #111;
     color: white;
 }
@@ -42,12 +42,12 @@ header {
 }
 
 .price {
-    color: #00ff88;
+    color: red;
     margin: 10px 0;
 }
 
 button {
-    background: #00ff88;
+    background: yellow;
     border: none;
     padding: 10px 15px;
     cursor: pointer;
@@ -71,19 +71,19 @@ button:hover {
 </head>
 <body>
 
-<header> فروشگاه مکمل ورزشی </header>
+<header> فروشگاه مکمل تهران فیت </header>
 
 <div class="container">
 
 <div class="card">
     <img src="https://via.placeholder.com/300x200" alt="">
-    <h3>پروتئین وی</h3>
+    <h3> کراتین لابرادا</h3>
     <div class="price">1,200,000 تومان</div>
-    <button onclick="addToCart('پروتئین وی',1200000)">افزودن به سبد</button>
+    <button onclick="addToCart('کراتین لابرادا',1200000)">افزودن به سبد</button>
 </div>
 
 <div class="card">
-    <img src="https://via.placeholder.com/300x200" alt="">
+    <img src="whey.jpg">
     <h3>کراتین مونوهیدرات</h3>
     <div class="price">650,000 تومان</div>
     <button onclick="addToCart('کراتین',650000)">افزودن به سبد</button>
