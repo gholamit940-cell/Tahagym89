@@ -76,7 +76,7 @@ button:hover {
 <div class="container">
 
 <div class="card">
-    <img src="https://via.placeholder.com/300x200" alt="">
+    <img src="ceratin.jpg">
     <h3> کراتین لابرادا</h3>
     <div class="price">1,200,000 تومان</div>
     <button onclick="addToCart('کراتین لابرادا',1200000)">افزودن به سبد</button>
@@ -90,7 +90,7 @@ button:hover {
 </div>
 
 <div class="card">
-    <img src="https://via.placeholder.com/300x200" alt="">
+    <img src="giner.jpg">
     <h3>گینر حجم</h3>
     <div class="price">1,800,000 تومان</div>
     <button onclick="addToCart('گینر',1800000)">افزودن به سبد</button>
